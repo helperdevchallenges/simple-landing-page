@@ -8,6 +8,9 @@ Obrigado por conferir este projeto de landing page, inspirado no design simples 
 
 Este projeto ajuda a aprimorar habilidades de codificação, criando uma landing page com uma interface amigável e responsiva. A página utiliza HTML, CSS e JavaScript para construir um layout que se adapta perfeitamente a diferentes dispositivos, incluindo desktops, tablets e smartphones.
 
+**Não se esqueça de compartilhar o resultado final com a comunidade!** 🚀
+Acesse o nosso [Discord](https://discord.gg/8QHmVYWjgc) para trocar ideias, receber feedback e encontrar pessoas com interesses semelhantes.
+
 **Para este projeto, é necessário ter um bom entendimento de HTML e CSS.**
 
 ## O desafio
@@ -48,3 +51,7 @@ Para hospedar seu projeto, você pode utilizar serviços gratuitos, como:
 - [Netlify](https://www.netlify.com/)
 
 Essas plataformas facilitam o deploy de sites e ajudam a compartilhar o projeto com outras pessoas.
+
+## Compartilhe
+Participe da comunidade e compartilhe seu projeto no [Discord](https://discord.gg/8QHmVYWjgc). Aproveite para ver outros projetos e trocar experiências com desenvolvedores de todo o mundo.
+- [Discord](https://discord.gg/8QHmVYWjgc)
